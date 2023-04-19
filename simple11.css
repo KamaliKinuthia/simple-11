@@ -60,10 +60,17 @@ nav{
     text-align: left;
     top: 0;
 }
+.text span{
+    text-decoration: underline orange;
+    
+}
 .introtext{
     display: flex;
-    justify-content: space-between;
+    justify-content:space-evenly;
     align-items: center;
     padding-left: 50px;
-   
+}
+.roller{
+    color: #fff;
+    font-size: 30px;
 }
